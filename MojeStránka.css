@@ -1,0 +1,29 @@
+h1{
+ font-style: oblique;
+ text-align: center;
+ text-shadow: 1px 1px 3px  rgb(0, 0, 0);
+ color: darkgoldenrod;
+ font-size: 40px;
+}
+
+h2{
+    text-align: center;
+    text-shadow: 1px 1px 3px  rgb(0, 0, 0);
+    color: darkgoldenrod; 
+    font-size: 30px; 
+}
+
+.obrazek{
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+    color: rgb(184, 134, 59);
+    font-size: 20px;
+}
+
+.odkaz{
+    font-size: 100px;
+    color: darkgoldenrod;
+}

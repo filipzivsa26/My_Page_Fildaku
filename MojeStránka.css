@@ -27,3 +27,21 @@ h2{
     font-size: 100px;
     color: darkgoldenrod;
 }
+
+.pic_right{
+    text-align: center;
+   color: aliceblue;
+}
+
+.cislo{
+    font-size: 50px;
+    color: aliceblue;
+}
+
+.background{
+    background-color: darkgoldenrod;
+}
+
+.white {
+    color: aliceblue;
+}
